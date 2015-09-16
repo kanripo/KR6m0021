@@ -1,0 +1,9 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘二十頌論
+#+DATE: 2015-08-30 20:53:31.553645
+#+PROPERTY: JUAN 0
+#+PROPERTY: ID KR6m0021
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+焉
