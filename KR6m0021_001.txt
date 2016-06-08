@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:31.306170
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:34
 #+TITLE: 大乘二十頌論
 #+PROPERTY: CBETA_ID T30n1576
 #+PROPERTY: ID KR6m0021
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1576
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6m0021_T_000-0256a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0021_T_001-0256a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1576¶
-
- 大乘二十頌論¶
+No. 1576¶
+大乘二十頌論¶
 ¶
 龍樹菩薩造¶
 西天譯經三藏朝奉大夫試光祿卿¶
@@ -25,9 +24,9 @@ No.1576¶
 「　歸命不可思議性
 　諸佛無著真實智¶
 　諸法非言非無言
-　佛悲愍故善宣說
+　佛悲愍故善宣說」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　第一義無生
@@ -111,9 +110,9 @@ No.1576¶
 　若滅於心輪
 　即滅一切法¶
 　是諸法無我
-　諸法悉清淨
+　諸法悉清淨」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　佛廣宣說世間法
@@ -127,7 +126,7 @@ No.1576¶
 　生死輪迴大海中
 　眾生煩惱水充滿¶
 　若不運載以大乘
-　畢竟何能到彼岸
+　畢竟何能到彼岸」
 #+END_VERSE
-」¶
+¶
 大乘二十頌論
